@@ -1,0 +1,532 @@
+[
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22",
+    "type": "Flagship",
+    "processor": "Exynos 9000",
+    "memory": "12GB RAM, 256GB Storage",
+    "OS": "Android 13",
+    "price": 999,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A73",
+    "type": "Mid-range",
+    "processor": "Snapdragon 778G",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "Android 12",
+    "price": 499,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a73-5g.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy M32",
+    "type": "Budget",
+    "processor": "MediaTek Helio G85",
+    "memory": "6GB RAM, 64GB Storage",
+    "OS": "Android 11",
+    "price": 249,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m32.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 3",
+    "type": "Foldable",
+    "processor": "Snapdragon 888",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "Android 12",
+    "price": 1299,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip3-5g.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22",
+    "type": "Flagship",
+    "processor": "Exynos 9000",
+    "memory": "12GB RAM, 256GB Storage",
+    "OS": "Android 13",
+    "price": 999,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-5g.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note 20",
+    "type": "Flagship",
+    "processor": "Exynos 9100",
+    "memory": "16GB RAM, 512GB Storage",
+    "OS": "Android 14",
+    "price": 1199,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note20-ultra-.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A52 5G",
+    "type": "Mid-range",
+    "processor": "Snapdragon 750G",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "Android 12",
+    "price": 399,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a52-5g.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy M12",
+    "type": "Budget",
+    "processor": "Exynos 850",
+    "memory": "4GB RAM, 64GB Storage",
+    "OS": "Android 11",
+    "price": 199,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 4",
+    "type": "Foldable",
+    "processor": "Snapdragon 895",
+    "memory": "12GB RAM, 256GB Storage",
+    "OS": "Android 13",
+    "price": 1599,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold4.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21 FE",
+    "type": "Flagship",
+    "processor": "Snapdragon 888",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "Android 12",
+    "price": 699,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s21-fe-5g.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "type": "Flagship",
+    "processor": "A16 Bionic",
+    "memory": "6GB RAM, 256GB Storage",
+    "OS": "iOS 16",
+    "price": 1299,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "type": "Mid-range",
+    "processor": "A15 Bionic",
+    "memory": "4GB RAM, 128GB Storage",
+    "OS": "iOS 15",
+    "price": 799,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE (2022)",
+    "type": "Budget",
+    "processor": "A14 Bionic",
+    "memory": "3GB RAM, 64GB Storage",
+    "OS": "iOS 15",
+    "price": 399,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2022.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Mini",
+    "type": "Compact",
+    "processor": "A14 Bionic",
+    "memory": "4GB RAM, 128GB Storage",
+    "OS": "iOS 15",
+    "price": 699,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE Plus",
+    "type": "Budget",
+    "processor": "A13 Bionic",
+    "memory": "3GB RAM, 128GB Storage",
+    "OS": "iOS 15",
+    "price": 499,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "type": "Flagship",
+    "processor": "A17 Bionic",
+    "memory": "8GB RAM, 512GB Storage",
+    "OS": "iOS 17",
+    "price": 1499,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "type": "Mid-range",
+    "processor": "A16 Bionic",
+    "memory": "6GB RAM, 256GB Storage",
+    "OS": "iOS 17",
+    "price": 999,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro",
+    "type": "Budget",
+    "processor": "A15 Bionic",
+    "memory": "4GB RAM, 128GB Storage",
+    "OS": "iOS 17",
+    "price": 1099,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone XR",
+    "type": "Mid-range",
+    "processor": "A15 Bionic",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "iOS 17",
+    "price": 699,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Mini",
+    "type": "Compact",
+    "processor": "A15 Bionic",
+    "memory": "4GB RAM, 128GB Storage",
+    "OS": "iOS 17",
+    "price": 649,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Find X5 Pro",
+    "type": "Flagship",
+    "processor": "Snapdragon 8 Gen 2",
+    "memory": "12GB RAM, 512GB Storage",
+    "OS": "ColorOS 13",
+    "price": 1099,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x5-pro.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Reno 7 Pro",
+    "type": "Mid-range",
+    "processor": "MediaTek Dimensity 1300",
+    "memory": "8GB RAM, 256GB Storage",
+    "OS": "ColorOS 12",
+    "price": 699,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno7-pro-r.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Oppo A95 5G",
+    "type": "Mid-range",
+    "processor": "Snapdragon 690",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "ColorOS 12",
+    "price": 399,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a95-5g.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "F19",
+    "type": "Budget",
+    "processor": "Snapdragon 662",
+    "memory": "4GB RAM, 64GB Storage",
+    "OS": "ColorOS 12",
+    "price": 249,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-f19-pro-r.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Oppo A74",
+    "type": "Budget",
+    "processor": "Snapdragon 480",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "ColorOS 12",
+    "price": 299,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-f19.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Oppo A54s",
+    "type": "Budget",
+    "processor": "Snapdragon 460",
+    "memory": "4GB RAM, 128GB Storage",
+    "OS": "ColorOS 12",
+    "price": 199,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a16.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "F21 Pro",
+    "type": "Mid-range",
+    "processor": "MediaTek Dimensity 800U",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "ColorOS 12",
+    "price": 499,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno7-4g.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Reno 6Z",
+    "type": "Mid-range",
+    "processor": "MediaTek Dimensity 800",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "ColorOS 12",
+    "price": 349,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno-6z-.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Oppo A16",
+    "type": "Budget",
+    "processor": "Mediatek Helio G35",
+    "memory": "3GB RAM, 32GB Storage",
+    "OS": "ColorOS 11",
+    "price": 149,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a16.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Find X4",
+    "type": "Flagship",
+    "processor": "Snapdragon 888",
+    "memory": "12GB RAM, 256GB Storage",
+    "OS": "ColorOS 13",
+    "price": 1199,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x5-pro.jpg"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 6 Pro",
+    "type": "Flagship",
+    "processor": "Google Tensor",
+    "memory": "12GB RAM, 256GB Storage",
+    "OS": "Android 13",
+    "price": 899,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 5a 5G",
+    "type": "Mid-range",
+    "processor": "Snapdragon 765G",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "Android 12",
+    "price": 499,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5a-5g.jpg"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 4a",
+    "type": "Budget",
+    "processor": "Snapdragon 730G",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "Android 12",
+    "price": 349,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4a.jpg"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 6",
+    "type": "Flagship",
+    "processor": "Google Tensor",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "Android 13",
+    "price": 699,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6.jpg"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 4 XL",
+    "type": "Flagship",
+    "processor": "Snapdragon 855",
+    "memory": "6GB RAM, 64GB Storage",
+    "OS": "Android 11",
+    "price": 599,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4-r1.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 9 Pro",
+    "type": "Flagship",
+    "processor": "Snapdragon 888",
+    "memory": "12GB RAM, 256GB Storage",
+    "OS": "OxygenOS 12",
+    "price": 999,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9-pro-.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord 2",
+    "type": "Mid-range",
+    "processor": "MediaTek Dimensity 1200",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "OxygenOS 12",
+    "price": 499,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-2-5g-new.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 8T",
+    "type": "Flagship",
+    "processor": "Snapdragon 865",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "OxygenOS 11",
+    "price": 599,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8t.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord CE 5G",
+    "type": "Mid-range",
+    "processor": "Snapdragon 750G",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "OxygenOS 11",
+    "price": 349,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-5g.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 10 Pro",
+    "type": "Flagship",
+    "processor": "Snapdragon 8 Gen 2",
+    "memory": "12GB RAM, 512GB Storage",
+    "OS": "OxygenOS 13",
+    "price": 1199,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord CE 2",
+    "type": "Mid-range",
+    "processor": "Snapdragon 778G",
+    "memory": "8GB RAM, 256GB Storage",
+    "OS": "OxygenOS 12",
+    "price": 499,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-2-5g.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 9RT",
+    "type": "Flagship",
+    "processor": "Snapdragon 888",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "OxygenOS 12",
+    "price": 699,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9-rt-r.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 9R",
+    "type": "Flagship",
+    "processor": "Snapdragon 870",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "OxygenOS 11",
+    "price": 699,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9r.jpg"
+  },
+  {
+    "brand": "Realme",
+    "model": "GT 2 Pro",
+    "type": "Flagship",
+    "processor": "Snapdragon 8 Gen 1",
+    "memory": "12GB RAM, 256GB Storage",
+    "OS": "Realme UI 3.0 (based on Android 13)",
+    "price": 899,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-gt5-pro.jpg"
+  },
+  {
+    "brand": "Realme",
+    "model": "Realme 8 Pro",
+    "type": "Mid-range",
+    "processor": "Snapdragon 768G",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "Realme UI 3.0 (based on Android 12)",
+    "price": 499,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-8-pro-ofic.jpg"
+  },
+  {
+    "brand": "Realme",
+    "model": "Narzo 50",
+    "type": "Budget",
+    "processor": "MediaTek Helio G96",
+    "memory": "4GB RAM, 64GB Storage",
+    "OS": "Realme UI 2.0 (based on Android 11)",
+    "price": 199,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-narzo-50.jpg"
+  },
+  {
+    "brand": "Realme",
+    "model": "X7 Max",
+    "type": "Mid-range",
+    "processor": "MediaTek Dimensity 1200",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "Realme UI 2.0 (based on Android 11)",
+    "price": 349,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-x7-max-5g.jpg"
+  },
+  {
+    "brand": "Realme",
+    "model": "Realme C25",
+    "type": "Budget",
+    "processor": "MediaTek Helio G70",
+    "memory": "4GB RAM, 64GB Storage",
+    "OS": "Realme UI 2.0 (based on Android 10)",
+    "price": 149,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-c25.jpg"
+  },
+  {
+    "brand": "Nokia",
+    "model": "Nokia X20",
+    "type": "Mid-range",
+    "processor": "Snapdragon 480",
+    "memory": "6GB RAM, 128GB Storage",
+    "OS": "Android 12",
+    "price": 399,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x20.jpg"
+  },
+  {
+    "brand": "Nokia",
+    "model": "Nokia G50",
+    "type": "Budget",
+    "processor": "Snapdragon 480",
+    "memory": "4GB RAM, 64GB Storage",
+    "OS": "Android 11",
+    "price": 249,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g50.jpg"
+  },
+  {
+    "brand": "Nokia",
+    "model": "Nokia 5.4",
+    "type": "Mid-range",
+    "processor": "Snapdragon 662",
+    "memory": "4GB RAM, 128GB Storage",
+    "OS": "Android 11",
+    "price": 299,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-54-2020.jpg"
+  },
+  {
+    "brand": "Nokia",
+    "model": "Nokia C30",
+    "type": "Budget",
+    "processor": "Unisoc SC9863A",
+    "memory": "3GB RAM, 32GB Storage",
+    "OS": "Android 11 (Go edition)",
+    "price": 149,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c30.jpg"
+  },
+  {
+    "brand": "Nokia",
+    "model": "Nokia 8.3 5G",
+    "type": "Flagship",
+    "processor": "Snapdragon 765G",
+    "memory": "8GB RAM, 128GB Storage",
+    "OS": "Android 11",
+    "price": 599,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-83-5g.jpg"
+  }
+]
