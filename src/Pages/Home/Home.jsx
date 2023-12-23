@@ -1,8 +1,11 @@
+import Banner from "../../Components/Banner";
+import Featured from "../../Components/Featured";
 
 const Home = () => {
   return (
     <div>
-      This is homepage
+      <Banner />
+      <Featured/>
     </div>
   );
 };

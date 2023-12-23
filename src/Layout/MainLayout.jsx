@@ -3,9 +3,9 @@ import Navbar from "../Components/Navbar";
 import { Outlet } from "react-router-dom";
 const MainLayout = () => {
   return (
-    <div>
+    <div className="flex flex-col justify-between min-h-screen">
       <Navbar />
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4 flex-grow">
         <Outlet />
       </div>
       <Footer />

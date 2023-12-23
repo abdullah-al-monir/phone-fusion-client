@@ -6,7 +6,7 @@ import { MdOutlineSettings } from "react-icons/md";
 const ProductCard = ({ product }) => {
   const { brand, model, type, processor, price, memory, OS, image } = product;
   return (
-    <div className="flex max-w-md p-5 rounded-xl bg-gray-50 shadow-lg gap-2 mx-auto">
+    <div className="flex max-w-md p-5 rounded-xl bg-gray-50 shadow-lg gap-2 mx-auto hover:scale-105 duration-300">
       <div>
         <img src={image} alt="" />
       </div>
